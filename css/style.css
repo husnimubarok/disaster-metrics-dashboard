@@ -68,6 +68,9 @@ html, body {
 .secondary-icon.color.primary-darkred-0 path {
   fill: #7A1600 !important;
 }
+.secondary-icon.color.primary-darkred-0 circle {
+  fill: #7A1600 !important;
+}
 .secondary-icon.color.primary-darkred-1 path {
   fill: #C3ADA9 !important;
 }
