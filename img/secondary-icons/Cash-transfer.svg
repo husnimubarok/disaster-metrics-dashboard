@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="Cash-transfer.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="800"
+     inkscape:window-height="479"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="154"
+     inkscape:window-y="134"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#418fde;}</style>
+  </defs>
+  <title
+     id="title6">Asset 736</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     style="fill:#e20a16;fill-opacity:1">
+    <g
+       id="Icons"
+       style="fill:#e20a16;fill-opacity:1">
+      <path
+         class="cls-1"
+         d="M46.03,14H1.97a.96454.96454,0,0,0-.97.97V33.03a.96456.96456,0,0,0,.97.97H46.03a.96452.96452,0,0,0,.97-.97V14.97A.9645.9645,0,0,0,46.03,14ZM8,27a3,3,0,1,1,3-3A2.996,2.996,0,0,1,8,27Zm16,4a7,7,0,1,1,7-7A6.99488,6.99488,0,0,1,24,31Zm16-4a3,3,0,1,1,3-3A2.99606,2.99606,0,0,1,40,27Z"
+         id="path8"
+         style="fill:#e20a16;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M44.5,41.04492H5.12109l1.39453-1.39453A1.49984,1.49984,0,1,0,4.39453,37.5293L.43945,41.48438a1.50239,1.50239,0,0,0-.3258.49047l-.0072.02326a1.45749,1.45749,0,0,0,0,1.09356l.0072.02332a1.50254,1.50254,0,0,0,.3258.49048l3.95508,3.95508a1.49984,1.49984,0,0,0,2.12109-2.1211L5.12109,44.04492H44.5a1.5,1.5,0,0,0,0-3Z"
+         id="path10"
+         style="fill:#e20a16;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M47.89355,4.9082l-.0072-.02319a1.50159,1.50159,0,0,0-.3258-.49048L43.60547.43945a1.49984,1.49984,0,0,0-2.12109,2.1211l1.39453,1.39453H3.5a1.5,1.5,0,1,0,0,3H42.87891L41.48438,8.34961a1.49984,1.49984,0,0,0,2.12109,2.12109l3.95508-3.95508a1.50144,1.50144,0,0,0,.3258-.49047l.0072-.0232a1.458,1.458,0,0,0,0-1.09375Z"
+         id="path12"
+         style="fill:#e20a16;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
