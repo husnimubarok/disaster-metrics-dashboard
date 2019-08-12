@@ -12,6 +12,14 @@ html, body {
 .gored {
   color: #c22a26;
 }
+
+.footer1 {
+  color: #3f3e3e;
+  font-weight: bold;
+}
+.footer2 {
+  color: #555353;
+}
 .key-figure_number {
   font-size: 22px;
 }
